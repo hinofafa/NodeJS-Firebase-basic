@@ -1,6 +1,6 @@
 # NodeJS-Firebase-basic
 
-Please use "node" command to start app.js service. The service has already linked with provided Firebase.<br>Behalf of provide TODO list result, I list the call method below. * can fill any string words. 
+Please use "node" command to start app.js service. The service has already linked with provided Firebase. Behalf of provide TODO list result, I list the call method below. * can fill any string words. 
 -----------------------
  
 #### API 1) Add a TODO Item with the following data<br>
